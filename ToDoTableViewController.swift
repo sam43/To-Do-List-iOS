@@ -87,7 +87,7 @@ class ToDoTableViewController: UITableViewController {
     }
 
     
-    // custom function for working of check button
+    // custom function for working of check button... 
     
     func configureCheckMark(for cell:UITableViewCell, with model:ToDoModel) {
         if model.isDone {
